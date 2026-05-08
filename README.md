@@ -1,6 +1,6 @@
-# ml-foundations-python
+# ML Foundations Python
 
-Core Python data science toolkit — NumPy, Pandas, Matplotlib, Seaborn with worked examples and real-dataset visualizations.
+Core Python data science toolkit including NumPy, Pandas, Matplotlib, Seaborn with worked examples and real-dataset visualizations.
 
 ## 📓 Notebooks
 
